@@ -19,57 +19,45 @@ export const data = [
     },
     {
       "id":"4",
-      "title": "Banda",
-      "photoCover": "https://cdn0.casamentos.com.br/vendor/3167/3_2/640/jpeg/whatsapp-image-2022-06-18-at-20-35-17_13_343167-165559539122855.webp",
-      "description":"A Iaczinski Doces Finos é uma empresa especializada em produzir docinhos de casamento. Com mais de 8 anos neste saboroso mercado, a confeitaria acumula elogios pelo ótimo serviço e pela capacidade para atender a todos os tipos de clientes e eventos. Uma de suas principais qualidades está na criação e personalização do cardápio de doces. "
+      "title": "Fotografo",
+      "photoCover": "https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2016/12/800px-usaf_photographer.jpg?quality=70&strip=info&w=800&h=578&crop=1",
+      "description":"Sou fotógrafo apaixonado por capturar momentos únicos e transformá-los em memórias eternas. Trabalho com ensaios externos, eventos, retratos e fotografia criativa. Busco sempre a luz perfeita, o ângulo ideal e a emoção verdadeira em cada clique. Se você quer registrar um momento especial com autenticidade e sensibilidade, vamos conversar. "
     },
     {
       "id":"5",
-      "title": "Banda",
-      "photoCover": "https://cdn0.casamentos.com.br/vendor/3167/3_2/640/jpeg/whatsapp-image-2022-06-18-at-20-35-17_13_343167-165559539122855.webp",
-      "description":"A Iaczinski Doces Finos é uma empresa especializada em produzir docinhos de casamento. Com mais de 8 anos neste saboroso mercado, a confeitaria acumula elogios pelo ótimo serviço e pela capacidade para atender a todos os tipos de clientes e eventos. Uma de suas principais qualidades está na criação e personalização do cardápio de doces. "
+      "title": "Robe",
+      "photoCover": "https://cdn0.casamentos.com.br/vendor/2925/3_2/640/jpg/88a81817-9a6f-4587-a903-39fadedbdcc3_13_282925-161083308079860.webp",
+      "description":"O robe é uma peça leve e confortável, perfeita para usar ao acordar, depois do banho ou durante momentos de relaxamento em casa. Ele pode ser feito de algodão, cetim, seda ou plush, e traz aquela sensação gostosa de aconchego. Além de prático, o robe também pode ser estiloso, ideal pra quem ama conforto com um toque de elegância. "
     },
     {
       "id":"6",
       "title": "Banda",
-      "photoCover": "https://cdn0.casamentos.com.br/vendor/3167/3_2/640/jpeg/whatsapp-image-2022-06-18-at-20-35-17_13_343167-165559539122855.webp",
+      "photoCover": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*wzVxoDlOkQsei6ZwymT81w.png",
       "description":"A Iaczinski Doces Finos é uma empresa especializada em produzir docinhos de casamento. Com mais de 8 anos neste saboroso mercado, a confeitaria acumula elogios pelo ótimo serviço e pela capacidade para atender a todos os tipos de clientes e eventos. Uma de suas principais qualidades está na criação e personalização do cardápio de doces. "
     },
     {
       "id":"7",
-      "title": "Banda",
-      "photoCover": "https://cdn0.casamentos.com.br/vendor/3167/3_2/640/jpeg/whatsapp-image-2022-06-18-at-20-35-17_13_343167-165559539122855.webp",
+      "title": "Acessorio de Cabelo",
+      "photoCover": "https://lapisdenoiva.com/wp-content/uploads/2019/12/tend%C3%AAncia-acess%C3%B3rios-de-cabelo-da-noiva-2020.jpg",
       "description":"A Iaczinski Doces Finos é uma empresa especializada em produzir docinhos de casamento. Com mais de 8 anos neste saboroso mercado, a confeitaria acumula elogios pelo ótimo serviço e pela capacidade para atender a todos os tipos de clientes e eventos. Uma de suas principais qualidades está na criação e personalização do cardápio de doces. "
     },
     {
       "id":"8",
-      "title": "Banda",
-      "photoCover": "https://cdn0.casamentos.com.br/vendor/3167/3_2/640/jpeg/whatsapp-image-2022-06-18-at-20-35-17_13_343167-165559539122855.webp",
+      "title": "Vestido",
+      "photoCover": "https://lapisdenoiva.com/wp-content/uploads/2020/02/maquiagem-para-noiva-negra.jpg",
       "description":"A Iaczinski Doces Finos é uma empresa especializada em produzir docinhos de casamento. Com mais de 8 anos neste saboroso mercado, a confeitaria acumula elogios pelo ótimo serviço e pela capacidade para atender a todos os tipos de clientes e eventos. Uma de suas principais qualidades está na criação e personalização do cardápio de doces. "
     },
     {
       "id":"9",
-      "title": "Banda",
-      "photoCover": "https://cdn0.casamentos.com.br/vendor/3167/3_2/640/jpeg/whatsapp-image-2022-06-18-at-20-35-17_13_343167-165559539122855.webp",
+      "title": "Maquiagem",
+      "photoCover": "https://lapisdenoiva.com/wp-content/uploads/2020/02/maquiagem-para-noiva-feita-por-Kellen-Lopes-1536x1090.jpg",
       "description":"A Iaczinski Doces Finos é uma empresa especializada em produzir docinhos de casamento. Com mais de 8 anos neste saboroso mercado, a confeitaria acumula elogios pelo ótimo serviço e pela capacidade para atender a todos os tipos de clientes e eventos. Uma de suas principais qualidades está na criação e personalização do cardápio de doces. "
     },
     {
       "id":"10",
-      "title": "Banda",
-      "photoCover": "https://cdn0.casamentos.com.br/vendor/3167/3_2/640/jpeg/whatsapp-image-2022-06-18-at-20-35-17_13_343167-165559539122855.webp",
-      "description":"A Iaczinski Doces Finos é uma empresa especializada em produzir docinhos de casamento. Com mais de 8 anos neste saboroso mercado, a confeitaria acumula elogios pelo ótimo serviço e pela capacidade para atender a todos os tipos de clientes e eventos. Uma de suas principais qualidades está na criação e personalização do cardápio de doces. "
-    },
-    {
-      "id":"11",
-      "title": "Banda",
-      "photoCover": "https://cdn0.casamentos.com.br/vendor/3167/3_2/640/jpeg/whatsapp-image-2022-06-18-at-20-35-17_13_343167-165559539122855.webp",
-      "description":"A Iaczinski Doces Finos é uma empresa especializada em produzir docinhos de casamento. Com mais de 8 anos neste saboroso mercado, a confeitaria acumula elogios pelo ótimo serviço e pela capacidade para atender a todos os tipos de clientes e eventos. Uma de suas principais qualidades está na criação e personalização do cardápio de doces. "
-    },
-    {
-      "id":"12",
-      "title": "Banda",
-      "photoCover": "https://cdn0.casamentos.com.br/vendor/3167/3_2/640/jpeg/whatsapp-image-2022-06-18-at-20-35-17_13_343167-165559539122855.webp",
+      "title": "Sapato",
+      "photoCover": "https://joliz.com.br/dicas/wp-content/uploads/2022/03/happiness-bouquet-hands-shoes-wedding-walk-bride-roses-wedding-bouquet-brides-dress_t20_9eRXAN-scaled.jpg",
       "description":"A Iaczinski Doces Finos é uma empresa especializada em produzir docinhos de casamento. Com mais de 8 anos neste saboroso mercado, a confeitaria acumula elogios pelo ótimo serviço e pela capacidade para atender a todos os tipos de clientes e eventos. Uma de suas principais qualidades está na criação e personalização do cardápio de doces. "
     }
-
+   
   ]
