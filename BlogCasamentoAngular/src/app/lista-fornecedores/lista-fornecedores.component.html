@@ -1,0 +1,16 @@
+<div class="container_lista-fornecedores">
+    <h2>Lista de Fornecedores</h2>
+</div>
+
+<div  class="card-container">
+    <app-fornecedor
+    *ngFor="let item of data"
+    id="{{item.id}}"
+    cardTitle="{{item.title}}"
+    photoCover="{{item.photoCover}}"
+    
+    ></app-fornecedor>
+
+    
+  </div>
+  

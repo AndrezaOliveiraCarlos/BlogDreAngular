@@ -1,0 +1,20 @@
+.container_card-photo {
+      
+    text-align: center;
+  
+}
+
+.container_card-photo > img {
+width:200px;
+min-width: none;
+padding: 20px;
+box-sizing: 20px;
+}
+
+.container_card-photo > h1 {
+    
+   font-size: 16px;
+}
+
+
+

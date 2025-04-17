@@ -1,0 +1,18 @@
+.container_menu-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.container_menu-title > h1{
+    font-size: 85px;
+    justify-content: center;
+    display: flex;
+}
+
+.container_menu-title > h3 {
+    justify-content: center;
+    display: flex;
+    font-family: 30px;
+    
+}
+

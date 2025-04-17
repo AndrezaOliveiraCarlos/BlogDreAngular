@@ -1,0 +1,14 @@
+.container_lista-fornecedores > h2{
+    justify-content: center;
+    display: flex;
+    margin-top: 15px;
+
+}
+
+.card-container {
+    display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
